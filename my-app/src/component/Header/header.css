@@ -1,0 +1,69 @@
+.Row1 {
+    width: 1366px;
+    height: 80px;
+    background-color: #ce0505;
+  }
+  .logoText {
+    width: 32px;
+    height: 47px;
+    font-family: Poppins;
+    font-size: 33px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: normal;
+    text-align: left;
+    color: #eb2929;
+    padding-left: 15px;
+  }
+  .logoBox {
+    width: 52px;
+    height: 52px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    margin-left: 102px;
+    margin-top: 15px;
+    
+  }
+  .CreateBox {
+    width: 181px;
+    height: 46px;
+    border-radius: 3px;
+    border: solid 1px #ffffff;
+    margin-left: 93px;
+    margin-top: -29px;
+  }
+  .login {
+    width: 43px;
+    height: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 17px;
+    margin-top: 25px;
+  }
+  .CreateTxt {
+    width: 152px;
+    height: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 8px;
+    margin-left: 10px;
+  }
+  .log-create{
+      margin-left: 166px;
+  }

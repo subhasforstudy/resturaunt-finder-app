@@ -1,0 +1,45 @@
+.quick-search-tile-container {
+
+    width: 360px;
+    height: 160px;
+    -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    position: relative;
+    display: block;
+    margin: 15px;
+}
+
+img {
+    height: 160px;
+    width: 150px;
+}
+
+.Breakfast {
+    width: 88px;
+    height: 25px;
+    padding-top: 19px;
+    margin-bottom: 27px;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #3f2da3;
+  }
+
+  .contentLetter {
+    width: 137px;
+    height: 62px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+  }

@@ -1,0 +1,56 @@
+.Upper-heading {
+  margin-left: 293px;
+  width: auto;
+  height: 63px;
+  font-family: Poppins;
+  font-size: 44px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: white;
+}
+.search-location {
+  height: 60px;
+  width: 296px;
+  margin: 31px;
+  background-color: #ffffff;
+  margin: 10px;
+  display: inline-block;
+}
+
+.location-label{
+  color:red;
+}
+
+.logo {
+  font-family: Poppins;
+  font-size: 135px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.51;
+  letter-spacing: normal;
+  text-align: left;
+  color: #eb2929;
+  width: 147px;
+  height: 147px;
+  border-radius: 50%;
+  background-color: white;
+  vertical-align: middle;
+  text-align: center;
+  margin: auto;
+  line-height: 147px;
+}
+
+
+.Upper-container {
+  background-image: url('/assets/landingPage.png');
+  background-color: black;
+  min-height: 500px;
+  padding-top: 80px;
+}
+
+
